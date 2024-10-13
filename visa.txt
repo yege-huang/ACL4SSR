@@ -121,6 +121,10 @@ speed.marisalnc.com#私人维护
 cloudflare.182682.xyz#私人维护
 115155.xyz#私人维护
 cdn.2020111.xyz#私人维护
+cf.090227.xyz#三网自适应分流官方优选
+ct.090227.xyz#电信官方优选
+cmcc.090227.xyz#移动官方优选
+faker.speed.简书.cn#free
 shopify.com#常用优选官方
 time.is#常用优选官方
 icook.hk#常用优选官方

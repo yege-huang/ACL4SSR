@@ -170,7 +170,6 @@ s0.awsstatic.com#amazon
 d1.awsstatic.com#amazon
 images-na.ssl-images-amazon.com#amazon
 m.media-amazon.com#amazon
-player.live-video.net
 dl.google.com#google
 www.google-analytics.com#google
 player.live-video.net#其他域名推荐

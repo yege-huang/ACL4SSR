@@ -111,13 +111,13 @@ www.cisco.com#Reality域名推荐
 cdn-dynmedia-1.microsoft.com#Reality域名推荐
 www.tesla.com#Reality域名推荐
 swift.com#Reality域名推荐
-unpkg.com# 稳定大厂域名
-www.visa.com.sg# 稳定大厂域名
-www.okcupid.com# 稳定大厂域名
+unpkg.com#稳定大厂域名
+www.visa.com.sg#稳定大厂域名
+www.okcupid.com#稳定大厂域名
 www.udemy.com# 稳定大厂域名
-visa.cn# 稳定大厂域名
-time.cloudflare.com# 稳定大厂域名
-speed.marisalnc.com# 私人维护-分钟级优选
-cloudflare.182682.xyz# 私人维护-分钟级优选
-115155.xyz# 私人维护-分钟级优选
-cdn.2020111.# 私人维护-分钟级优选
+visa.cn#稳定大厂域名
+time.cloudflare.com#稳定大厂域名
+speed.marisalnc.com#私人维护
+cloudflare.182682.xyz#私人维护
+115155.xyz#私人维护
+cdn.2020111.xyz#私人维护

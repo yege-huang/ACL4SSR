@@ -96,8 +96,8 @@ qa.visamiddleeast.com#visa卡塔尔
 sa.visamiddleeast.com#visa沙特阿拉伯
 ae.visamiddleeast.com#visa阿拉伯联合酋长国
 km.visamiddleeast.com#visa阿尔及利亚&巴林&伊拉克&约旦&科威特&黎巴嫩&阿拉伯利比亚民众国&中东&北非&阿曼&巴基斯坦&突尼斯&阿拉伯也门共和国
-chatgpt.com#GPT
-speedtest.net#测速网
+www.chatgpt.com#GPT
+www.speedtest.net#测速网
 www.cloudflare.com#Reality域名推荐
 addons.mozilla.org#Reality域名推荐
 s0.awsstatic.com#Reality域名推荐

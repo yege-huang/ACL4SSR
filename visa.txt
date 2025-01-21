@@ -97,7 +97,6 @@ sa.visamiddleeast.com#visa沙特阿拉伯
 ae.visamiddleeast.com#visa阿拉伯联合酋长国
 km.visamiddleeast.com#visa阿尔及利亚&巴林&伊拉克&约旦&科威特&黎巴嫩&阿拉伯利比亚民众国&中东&北非&阿曼&巴基斯坦&突尼斯&阿拉伯也门共和国
 time.cloudflare.com#稳定大厂域名
-cloudflare.182682.xyz#私人维护
 115155.xyz#私人维护
 cdn.2020111.xyz#私人维护
 cf.090227.xyz#三网自适应分流官方优选

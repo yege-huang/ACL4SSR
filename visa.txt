@@ -96,7 +96,6 @@ qa.visamiddleeast.com#visa卡塔尔
 sa.visamiddleeast.com#visa沙特阿拉伯
 ae.visamiddleeast.com#visa阿拉伯联合酋长国
 km.visamiddleeast.com#visa阿尔及利亚&巴林&伊拉克&约旦&科威特&黎巴嫩&阿拉伯利比亚民众国&中东&北非&阿曼&巴基斯坦&突尼斯&阿拉伯也门共和国
-unpkg.com#稳定大厂域名
 www.visa.com.sg#稳定大厂域名
 www.okcupid.com#稳定大厂域名
 www.udemy.com# 稳定大厂域名

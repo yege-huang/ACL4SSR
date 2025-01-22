@@ -1,7 +1,0 @@
-Serv00-16：
-节点订阅链接：
-Clash: https://uooksmp.serv00.net/get_sub.php?file=sub_clash.yaml
-
-Sing-box: https://uooksmp.serv00.net/get_sub.php?file=sub_singbox.yaml
-
-V2rayN/Nekoray/小火箭: https://uooksmp.serv00.net/sub_v2.log
